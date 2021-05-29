@@ -1,0 +1,16 @@
+/* CSS Styling */
+
+/* Grid */
+
+h1 { text-align: center; padding-top: 40px; padding-bottom: 20px;}
+.col { text-align: center; padding: 10px;}
+
+/* Form */
+
+hr { padding-top: ; }
+#form_div { padding-top: 30px; padding-bottom: 20px; }
+h2 { text-align: center; }
+button { padding-bottom: 40px; }
+.footer { font-family:  montserrat; text-align: center; color: white; background-color: #002C2C; padding-top: 50px; padding-bottom: 10px;}
+.footer2 { font-family: montserrat; text-align: center; color: cyan}
+	
